@@ -43,7 +43,7 @@
 ### 📫 Contact
 
 - 📍 Mexico City  
-- 📧 adolfokaiser@ciencias.unam.mx*  
+- 📧 adolfokaiser@ciencias.unam.mx
 - 🔗 [LinkedIn](https://linkedin.com/in/adolfokaiser)
 
 ---
