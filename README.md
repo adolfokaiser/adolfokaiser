@@ -4,38 +4,46 @@
 </h1>
 
 <p align="center">
-  🎓 Physics student | 📊 Data Science & Automation Enthusiast | 🔭 Exoplanet Hunter in Training  
+  🎓 Physicist | 🐍 Python Dev: Data Science, Automation Bots & Astrophysics | 🔭 Exoplanet Hunter in Training  
 </p>
 
 ---
 
-### 🔧 Skills
-- **Languages**: Python, SQL  
-- **Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras, Selenium, Git  
-- **Other**: Power BI, Excel, Jupyter, VSCode, MetaTrader 5  
+### 🧰 Skills
+
+- **Languages & Databases**: Python, SQL (SQL Server, SSMS)  
+- **Data & ML Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
+- **Automation & Scripting**: Selenium, xlwings, win32com, Pyperclip, JSON, OS, Sys, Re, Pathlib, Urllib3, Schedule  
+- **Astrophysics Libraries**: Lightkurve, Astropy, Batman, TransitLeastSquares  
+- **Trading & Financial Tools**: MetaTrader 5 (MT5), TA-Lib  
+- **Dev Environments**: VSCode, Cursor, Power BI  
 
 ---
 
 ### 🚀 Highlighted Projects
 
-- 🧠 `rack-price-predictor`  
-  Neural network to forecast Pemex TAR prices using historical data (Brent, WTI, Regular).  
-
-- 🤖 `forex-scalping-lstm`  
-  Algorithmic trading bot using LSTM for high-frequency EUR/USD scalping.  
-
-- 🔭 `exoplanet-transit-injection`  
-  Transit injection–recovery pipeline for validating planet detection methods with TESS data.  
-
 - 🛠 `cre-price-automation`  
-  Script with Selenium that automates government web submission of fuel prices and downloads digital receipts.  
+  Script with Selenium that automates government web submission of fuel prices and downloads digital receipts.
+
+- 📊 `cre-price-scraper`  
+  Automated scraper that collects daily fuel price data from the CRE site across all municipalities.
+
+- 🛰️ `exoplanet-transit-injection`  
+  Transit injection–recovery pipeline for validating planet detection methods with TESS data.
+
+- 🧠 `rack-price-predictor`  
+  Neural network to predict Pemex TAR prices using multi-product fuel data, Brent & WTI benchmarks, and regional trends.
+
+- 📉 `forex-scalping-lstm`  
+  Algorithmic trading bot using LSTM for high-frequency EUR/USD scalping.
+
 
 ---
 
 ### 📫 Contact
 
 - 📍 Mexico City  
-- 📧 adolfo.kaiser@email.com *(pon tu real si quieres que te contacten)*  
+- 📧 adolfokaiser@ciencias.unam.mx*  
 - 🔗 [LinkedIn](https://linkedin.com/in/adolfokaiser)
 
 ---
