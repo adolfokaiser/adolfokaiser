@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🎓 Physicist | 🐍 Python Dev: Data Science, Automation Bots & Astrophysics | 🔭 Exoplanet Hunter in Training  
+  🎓 Physicist | 🐍 Python Dev: Data Science, Automation Bots & Astrophysics | 📊 Fuel Pricing Automation @ BP  | 🔭 Exoplanet Hunter in Training  
 </p>
 
 ---
@@ -17,16 +17,15 @@
 - **Astrophysics Libraries**: Lightkurve, Astropy, Batman, TransitLeastSquares  
 - **Trading & Financial Tools**: MetaTrader 5 (MT5), TA-Lib  
 - **Dev Environments**: VSCode, Cursor, Power BI  
+- **Other**: GitHub Projects, README writing, technical documentation
 
 ---
 
 ### 🚀 Highlighted Projects
 
-- 🛠 `cre-price-automation`  
-  Script with Selenium that automates government web submission of fuel prices and downloads digital receipts.
-
-- 📊 `cre-price-scraper`  
-  Automated scraper that collects daily fuel price data from the CRE site across all municipalities.
+- 🏢 `bp-pricing-automation`  
+  End-to-end automation of BP Mexico's fuel pricing workflow using Python (Selenium, OCR, GUI, Excel) and Power BI.  
+  Includes 13 dashboards for strategy analysis, margin control, and competitive benchmarking.
 
 - 🛰️ `exoplanet-transit-injection`  
   Transit injection–recovery pipeline for validating planet detection methods with TESS data.
