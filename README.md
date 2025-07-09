@@ -9,6 +9,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightkurve-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MetaTrader5-blue?style=for-the-badge" />
+</p>
+
+
 ### 🧰 Skills
 
 - **Languages & Databases**: Python, SQL (SQL Server, SSMS)  
