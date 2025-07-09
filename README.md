@@ -10,12 +10,13 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFB700?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lightkurve-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MetaTrader5-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lightkurve-FF6F61?style=for-the-badge&logo=data%3Aimage/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiIgeG1sbnM9Iihttp://www.w3.org/2000/svgIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/MetaTrader%205-0080FF?style=for-the-badge&logo=metatrader&logoColor=white" />
 </p>
+
 
 
 ### 🧰 Skills
