@@ -40,13 +40,6 @@
 - 🛰️ `exoplanet-transit-injection`  
   Transit injection–recovery pipeline for validating planet detection methods with TESS data.
 
-- 🧠 `rack-price-predictor`  
-  Neural network to predict Pemex TAR prices using multi-product fuel data, Brent & WTI benchmarks, and regional trends.
-
-- 📉 `forex-scalping-lstm`  
-  Algorithmic trading bot using LSTM for high-frequency EUR/USD scalping.
-
-
 ---
 
 ### 📫 Contact
