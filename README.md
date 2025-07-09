@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Adolfo Kaiser banner" width="100%" />
+</p>
+
 
 <h1 align="center">
   👋 Hi, I'm Adolfo
