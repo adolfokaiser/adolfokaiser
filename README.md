@@ -28,7 +28,6 @@
 - **Astrophysics Libraries**: Lightkurve, Astropy, Batman, TransitLeastSquares  
 - **Trading & Financial Tools**: MetaTrader 5 (MT5), TA-Lib  
 - **Dev Environments**: VSCode, Cursor, Power BI  
-- **Other**: GitHub Projects, README writing, technical documentation
 
 ---
 
