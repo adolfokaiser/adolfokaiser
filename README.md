@@ -37,6 +37,10 @@
   End-to-end automation of BP Mexico's fuel pricing workflow using Python (Selenium, OCR, GUI, Excel) and Power BI.  
   Includes 13 dashboards for strategy analysis, margin control, and competitive benchmarking.
 
+  ![Automated price update](https://github.com/adolfokaiser/bp-pricing-automation/blob/main/assets/demo_pricing_bot.gif)
+
+  [▶ Watch full demo (1 min 42 s)](https://github.com/adolfokaiser/bp-pricing-automation/blob/main/assets/demo_pricing_bot.mp4)
+
 - 🛰️ `exoplanet-transit-injection`  
   Transit injection–recovery pipeline for validating planet detection methods with TESS data.
 
